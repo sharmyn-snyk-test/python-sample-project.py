@@ -1,0 +1,3 @@
+# Adding a version with a known vulnerability for testing
+requests==2.20.0 
+pytest==8.0.0
